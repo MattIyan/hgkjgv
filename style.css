@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://i0.wp.com/i.pinimg.com/originals/8b/7f/bc/8b7fbc2e623720393ad7ffa7e4896eac.gif?resize=160,120);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hay {
+    font-family: Arial;
+    text-align: center;
+    border: 3px;
+    padding: 10px;
+    margin-top: 300px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.ok {
+    text-align: center;
+    font-family: arial;
+    font-size: 30px;
+    margin-top: 300px;
+}
+
+button {
+    background-color: rgb(30, 175, 194);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
